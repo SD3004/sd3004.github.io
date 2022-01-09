@@ -15,8 +15,9 @@ author: Simon Dahan
 
 navbar-links:
   About Me: "aboutme"
-  Publications: "publications"
   Blog: "blog"
+  Publications: "publications"
+  Resume: "resume"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
