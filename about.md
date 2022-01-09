@@ -2,4 +2,4 @@
 layout: page
 ---
 
-Click on the @icon-user-graduate icon to take a screen shot.
+Click on the @icon-camera con to take a screen shot.
