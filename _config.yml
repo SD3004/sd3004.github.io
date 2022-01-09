@@ -14,7 +14,7 @@ author: Simon Dahan
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Blog: "blog"
   Publications: "publications"
   Resume: "resume"
