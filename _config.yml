@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Simon Dahan
+title: Simon Dahan webpage 
 
 # Your name to show in the footer
 author: Simon Dahan
@@ -15,10 +15,12 @@ author: Simon Dahan
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Publications: "publications"
+  Blog: "blog"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
