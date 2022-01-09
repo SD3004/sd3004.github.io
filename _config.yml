@@ -15,7 +15,7 @@ author: Simon Dahan
 
 navbar-links:
   #About Me: "aboutme"
-  Blog: "blog"
+  Blog: "/"
   Publications: "publications"
   Resume: "resume"
   #Resources:
