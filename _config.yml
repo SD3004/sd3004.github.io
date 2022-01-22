@@ -38,6 +38,8 @@ round-avatar: true
 # then specify the following parameter
 title-img: "/assets/img/picture.png"
 
+round-title-img: true
+
 # --- Footer social media links --- #
 
 # Select the social network links that you want to show in the footer.
