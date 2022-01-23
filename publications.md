@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Publications
 ---
 
 You can also visit my [Google Scholar](https://scholar.google.com/citations?user=JcbJqX0AAAAJ&hl=en&oi=ao)
