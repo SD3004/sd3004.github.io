@@ -13,4 +13,4 @@ Currently, I am developing deep learning methodologies for studying brain surfac
 
 **Updates:**
 
-- Our latest work on ***Surface Vision Transformers*** is currently under review for the MIDL 2022 conference (link](https://openreview.net/forum?id=mpp843Bsf-))
+- Our latest work on ***Surface Vision Transformers*** is currently under review for the MIDL 2022 conference [link](https://openreview.net/forum?id=mpp843Bsf-))
