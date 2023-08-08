@@ -18,8 +18,8 @@ navbar-links:
   Publications: "#publications"
   Background: "#background"
   Contact: "#contact"
-  **Blog**: "blog"
-  **Resume**: "resume"
+  Blog: "blog"
+  Resume: "resume"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
