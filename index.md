@@ -3,6 +3,8 @@ layout: page
 use-site-title: true
 ---
 
+<a id="aboutme"></a>
+
 Hello ! My name is Simon and I am a PhD student at King's College London and member of the [MeTriCs Lab](https://metrics-lab.github.io/). My PhD project is supervised by [Dr.Emma C. Robinson](https://scholar.google.com/citations?hl=fr&user=WXAAOb0AAAAJ) and [Pr. Daniel Rueckert](https://scholar.google.com/citations?user=H0O0WnQAAAAJ&hl=fr).
 
 My research work lies in developing new **deep learning** methods for studying **neuroimaging data**, especially for MRI and fMRI, with a particular interest in studying **neonatal cortical development and neurological disorders**. 
@@ -45,5 +47,7 @@ You can also visit my [Google Scholar](https://scholar.google.com/citations?user
   *Published in the European Respiratory Journal*<br/>
   [Publication](https://erj.ersjournals.com/content/54/6/1901216.full){: .btn}
 
-<a id="publications"></a>
-### Publications
+<a id="contact"></a>
+### Contact
+
+Please, feel free to contact me at simon.dahan@kcl.ac.uk
