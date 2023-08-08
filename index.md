@@ -1,7 +1,7 @@
 ---
 layout: page
 use-site-title: true
-title: 🧠 Simon Dahan
+title: Simon Dahan
 ---
 
 Hello ! My name is Simon and I am a PhD student at King's College London and member of the [MeTriCs Lab](https://metrics-lab.github.io/). My PhD project is supervised by [Dr.Emma C. Robinson](https://scholar.google.com/citations?hl=fr&user=WXAAOb0AAAAJ) and [Pr. Daniel Rueckert](https://scholar.google.com/citations?user=H0O0WnQAAAAJ&hl=fr).
