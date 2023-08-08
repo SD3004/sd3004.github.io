@@ -66,4 +66,4 @@ Note:
 <a id="contact"></a>
 ### Contact
 
-Please, feel free to contact me at simon.dahan@kcl.ac.uk
+Please, feel free to contact me at **simon.dahan@kcl.ac.uk**
