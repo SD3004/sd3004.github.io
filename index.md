@@ -52,13 +52,13 @@ You can also visit my [Google Scholar](https://scholar.google.com/citations?user
 
 A little bit more details about my educational background:
 
-![User Graduate Icon](https://www.flaticon.com/free-icons/graduation-cap)
+![User Graduate Icon](./graduate.png)
 I graduated from [Telecom Paris](https://www.telecom-paris.fr/) in December 2019 and obtained an Engineer's degree (MEng) specialising in Data Science and Image Processing. At Telecom Paris, I was particularly interested in applying machine learning and deep learning models, especially convolution neural networks to imaging datasets, comparing performances with image processing techniques. I especially enjoyed image processing and machine learning modules lead by [Isabelle Bloch](https://scholar.google.com/citations?hl=en&user=7BFEwr4AAAAJ&view_op=list_works&sortby=pubdate) (medical imaging), [Florence Tupin](https://scholar.google.com/citations?hl=en&user=j9x2t78AAAAJ) (satellite imaging) and [Pietro Gori](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=id9wCjsAAAAJ&sortby=pubdate) (medical imaging).
 
-![User Graduate Icon](https://www.flaticon.com/free-icons/graduation-cap)
+![User Graduate Icon](./graduate.png)
 In 2018-2019, I did an exchange in London to follow a MSc in Computing (specialism Machine Learning) at [Imperial College London](https://www.imperial.ac.uk/). This was an extraordinary programme with world-leading AI researcher such as Dr. Michael Bronstein or Dr. Stefanos Zafeiriou (Deep Learning module), Dr. Ben Glocker and Pr. Daniel Rueckert (Machine Learning for medical imaging module) or Pr. Marc Deisenroth (Probabilistic Inference module).
 
-![User Graduate Icon](https://www.flaticon.com/free-icons/graduation-cap)
+![User Graduate Icon](./graduate.png)
 In 2020, I was selected to join the [Smart Medical Imaging CDT](https://www.imagingcdt.com/) for a 4 years PhD programme.
 Note:
 
