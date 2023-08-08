@@ -1,6 +1,7 @@
 ---
 layout: page
 use-site-title: true
+title: helloooo
 ---
 
 Hello ! My name is Simon and I am a PhD student at King's College London and member of the [MeTriCs Lab](https://metrics-lab.github.io/). My PhD project is supervised by [Dr.Emma C. Robinson](https://scholar.google.com/citations?hl=fr&user=WXAAOb0AAAAJ) and [Pr. Daniel Rueckert](https://scholar.google.com/citations?user=H0O0WnQAAAAJ&hl=fr).
@@ -10,15 +11,15 @@ My research work lies in developing new **deep learning** methods for studying *
 Currently, I am developing deep learning methodologies for studying brain surface features using **vision transformers**. 
 
 --------
-
-**Updates:**
+<a id="updates"></a>
+### Updates:
 
 - Our latest work on ***Surface Vision Transformers*** is currently under review for the MIDL 2022 conference ([link](https://openreview.net/forum?id=mpp843Bsf-))
 
 
 --------
-
-## Publications
+<a id="publications"></a>
+### Publications
 
 You can also visit my [Google Scholar](https://scholar.google.com/citations?user=JcbJqX0AAAAJ&hl=en&oi=ao)
 
@@ -44,3 +45,6 @@ You can also visit my [Google Scholar](https://scholar.google.com/citations?user
  - **Unravelling Machine Learning–Insights in Respiratory Medicine**, *Elsa Angelini,* ***Simon Dahan***, *Anand Shah*.<br/>
   *Published in the European Respiratory Journal*<br/>
   [Publication](https://erj.ersjournals.com/content/54/6/1901216.full){: .btn}
+
+<a id="publications"></a>
+### Publications
