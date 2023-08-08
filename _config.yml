@@ -19,7 +19,7 @@ navbar-links:
   Background: "#background"
   Blog: "blog"
   Resume: "resume"
-  Contact: "contact"
+  Contact: "#contact"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
