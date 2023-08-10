@@ -28,14 +28,14 @@ You can also visit my [Google Scholar](https://scholar.google.com/citations?user
 
 - **Surface Masked AutoEncoder: Self-Supervision for Cortical Imaging Data**, ***Simon Dahan***, *Daniel Rueckert, Emma Claire Robinson*.<br/>
 
-  [Code](http://www.github.com/metrics-lab/surface-vision-transformers/){: .btn}
+  ***[Code](http://www.github.com/metrics-lab/surface-vision-transformers/){: .btn}***
 
   <img src="/smae.jpeg" width="500" height="300">
   
 - **The Multiscale Surface Vision Transformer**, ***Simon Dahan***, *Abdulah Fawaz, Mohamed A Suliman, Mariana Da Silva, Logan Zane John Williams, Daniel Rueckert, Emma Claire Robinson*.<br/>
 
-  [Arxiv](https://arxiv.org/abs/2303.11909){: .btn}
-  [Code](http://www.github.com/metrics-lab/surface-vision-transformers/){: .btn}
+  ***[Arxiv](https://arxiv.org/abs/2303.11909){: .btn}***
+  ***[Code](http://www.github.com/metrics-lab/surface-vision-transformers/){: .btn}***
 
   <img src="/ms-sit.jpeg" width="500" height="300">
 
@@ -47,36 +47,36 @@ You can also visit my [Google Scholar](https://scholar.google.com/citations?user
 
   **Accepted for Oral Presentation at MIDL 2022**
   
-  [Publication](https://link.springer.com/chapter/10.1007/978-3-030-87586-2_15){: .btn}
-  [Arxiv](https://arxiv.org/abs/2109.03115){: .btn}
-  [Code](http://www.github.com/metrics-lab/surface-vision-transformers/){: .btn}
+  ***[Publication](https://link.springer.com/chapter/10.1007/978-3-030-87586-2_15){: .btn}***
+  ***[Arxiv](https://arxiv.org/abs/2109.03115){: .btn}***
+  ***[Code](http://www.github.com/metrics-lab/surface-vision-transformers/){: .btn}***
 
   <img src="/sit_gif.gif" width="500" height="300">
 
 - **Surface Analysis with Vision Transformers**, ***Simon Dahan***, *Logan Zane John Williams, Abdulah Fawaz, Daniel Rueckert, Emma Claire Robinson*.<br/>
 
-  [Arxiv](https://arxiv.org/abs/2109.03115){: .btn}
-  [Code](http://www.github.com/metrics-lab/surface-vision-transformers/){: .btn}
+  ***[Arxiv](https://arxiv.org/abs/2109.03115){: .btn}***
+  ***[Code](http://www.github.com/metrics-lab/surface-vision-transformers/){: .btn}***
 
 **2021**
 
 - **Benchmarking Geometric Deep Learning for Cortical Segmentation and Neurodevelopmental Phenotype Prediction**, *Abdulah Fawaz, Logan ZJ Williams, Amir Alansary, Cher Bass, Karthik Gopinath, Mariana da Silva,* ***Simon Dahan***, *Chris Adamson, Bonnie Alexander, Deanne Thompson, Gareth Ball, Christian Desrosiers, Hervé Lombaert, Daniel Rueckert, A David Edwards, Emma C Robinson*.<br/>
   *Under review*.<br/>
-  [Biorxiv](https://www.biorxiv.org/content/10.1101/2021.12.01.470730v1){: .btn}
-  [Code](https://github.com/Abdulah-Fawaz/Benchmarking-Surface-DL){: .btn}
+  ***[Biorxiv](https://www.biorxiv.org/content/10.1101/2021.12.01.470730v1){: .btn}***
+  ***[Code](https://github.com/Abdulah-Fawaz/Benchmarking-Surface-DL){: .btn}***
 
 
 - **Improving Phenotype Prediction using Long-Range Spatio-Temporal Dynamics of Functional Connectivity**, ***Simon Dahan***, *Logan ZJ Williams, Daniel Rueckert, Emma C Robinson.*  <br/>
   *Published at the International Workshop on Machine Learning in Clinical Neuroimaging (MLCN 2021)* <br/>
-  [Publication](https://link.springer.com/chapter/10.1007/978-3-030-87586-2_15){: .btn}
-  [Arxiv](https://arxiv.org/abs/2109.03115){: .btn}
-  [Code](http://www.github.com/metrics-lab/ST-fMRI/){: .btn}
+  ***[Publication](https://link.springer.com/chapter/10.1007/978-3-030-87586-2_15){: .btn}***
+  ***[Arxiv](https://arxiv.org/abs/2109.03115){: .btn}***
+  ***[Code](http://www.github.com/metrics-lab/ST-fMRI/){: .btn}***
  
  **2019**
   
  - **Unravelling Machine Learning–Insights in Respiratory Medicine**, *Elsa Angelini,* ***Simon Dahan***, *Anand Shah*.<br/>
   *Published in the European Respiratory Journal*<br/>
-  [Publication](https://erj.ersjournals.com/content/54/6/1901216.full){: .btn}
+  ***[Publication](https://erj.ersjournals.com/content/54/6/1901216.full){: .btn}***
 
 <a id="background"></a>
 ### Background
