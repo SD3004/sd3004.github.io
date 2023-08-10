@@ -31,9 +31,11 @@ You can also visit my [Google Scholar](https://scholar.google.com/citations?user
 
 
 - **Benchmarking Geometric Deep Learning for Cortical Segmentation and Neurodevelopmental Phenotype Prediction**, *Abdulah Fawaz, Logan ZJ Williams, Amir Alansary, Cher Bass, Karthik Gopinath, Mariana da Silva,* ***Simon Dahan***, *Chris Adamson, Bonnie Alexander, Deanne Thompson, Gareth Ball, Christian Desrosiers, Hervé Lombaert, Daniel Rueckert, A David Edwards, Emma C Robinson*.<br/>
-  *Under review*.<br/>
+  *Accepted for Oral Presentation at MIDL 2022*.<br/>
   [Biorxiv](https://www.biorxiv.org/content/10.1101/2021.12.01.470730v1){: .btn}
   [Code](https://github.com/Abdulah-Fawaz/Benchmarking-Surface-DL){: .btn}
+  <img src="/images/animation.gif" alt="Description of GIF" width="300" height="200">
+
 
 - **Improving Phenotype Prediction using Long-Range Spatio-Temporal Dynamics of Functional Connectivity**, ***Simon Dahan***, *Logan ZJ Williams, Daniel Rueckert, Emma C Robinson.*  <br/>
   *Published at the International Workshop on Machine Learning in Clinical Neuroimaging (MLCN 2021)* <br/>
