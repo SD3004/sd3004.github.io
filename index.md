@@ -24,18 +24,46 @@ Currently, I am developing deep learning methodologies for studying brain surfac
 
 You can also visit my [Google Scholar](https://scholar.google.com/citations?user=JcbJqX0AAAAJ&hl=en&oi=ao)
 
-**2021**
+**2023**
+
+- **Surface Masked AutoEncoder: Self-Supervision for Cortical Imaging Data**, ***Simon Dahan***, *Daniel Rueckert, Emma Claire Robinson*.<br/>
+
+  [Code](http://www.github.com/metrics-lab/surface-vision-transformers/){: .btn}
+
+  <img src="/smae.jpeg" width="500" height="300">
+  
+- **The Multiscale Surface Vision Transformer**, ***Simon Dahan***, *Abdulah Fawaz, Mohamed A Suliman, Mariana Da Silva, Logan Zane John Williams, Daniel Rueckert, Emma Claire Robinson*.<br/>
+
+  [Arxiv](https://arxiv.org/abs/2303.11909){: .btn}
+  [Code](http://www.github.com/metrics-lab/surface-vision-transformers/){: .btn}
+
+  <img src="/ms-sit.jpeg" width="500" height="300">
+
+- **Geneneralising the HCP multimodal cortical parcellation to UK Biobank**, *Logan Zane John Williams, Matthew F Glasser, Fidel Alfaro-Almagro,* ***Simon Dahan*** *, Abdulah Fawaz, Timothy S Coalson, Sean Patrick Fitzgibbon, Mohamed Suliman, David C Van Essen, Stephen M Smith, A David Edwards, Emma Claire Robinson*.<br/>
+
+**2022**
 
 - **Surface Vision Transformers: Attention-Based Modelling applied to Cortical Analysis**, ***Simon Dahan***, *Abdulah Fawaz, Logan Zane John Williams, Chunhui Yang, Timothy S. Coalson, Matthew Glasser, A David Edwards, Daniel Rueckert, Emma Claire Robinson*.<br/>
-  *Accepted for Oral Presentation at MIDL 2022*
-  <img src="/sit_gif.gif">
 
+  **Accepted for Oral Presentation at MIDL 2022**
+  
+  [Publication](https://link.springer.com/chapter/10.1007/978-3-030-87586-2_15){: .btn}
+  [Arxiv](https://arxiv.org/abs/2109.03115){: .btn}
+  [Code](http://www.github.com/metrics-lab/surface-vision-transformers/){: .btn}
+
+  <img src="/sit_gif.gif" width="500" height="300">
+
+- **Surface Analysis with Vision Transformers**, ***Simon Dahan***, *Logan Zane John Williams, Abdulah Fawaz, Daniel Rueckert, Emma Claire Robinson*.<br/>
+
+  [Arxiv](https://arxiv.org/abs/2109.03115){: .btn}
+  [Code](http://www.github.com/metrics-lab/surface-vision-transformers/){: .btn}
+
+**2021**
 
 - **Benchmarking Geometric Deep Learning for Cortical Segmentation and Neurodevelopmental Phenotype Prediction**, *Abdulah Fawaz, Logan ZJ Williams, Amir Alansary, Cher Bass, Karthik Gopinath, Mariana da Silva,* ***Simon Dahan***, *Chris Adamson, Bonnie Alexander, Deanne Thompson, Gareth Ball, Christian Desrosiers, Hervé Lombaert, Daniel Rueckert, A David Edwards, Emma C Robinson*.<br/>
   *Under review*.<br/>
   [Biorxiv](https://www.biorxiv.org/content/10.1101/2021.12.01.470730v1){: .btn}
   [Code](https://github.com/Abdulah-Fawaz/Benchmarking-Surface-DL){: .btn}
-  
 
 
 - **Improving Phenotype Prediction using Long-Range Spatio-Temporal Dynamics of Functional Connectivity**, ***Simon Dahan***, *Logan ZJ Williams, Daniel Rueckert, Emma C Robinson.*  <br/>
